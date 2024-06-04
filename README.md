@@ -16,4 +16,4 @@
 ⚒️:WebD/GameDev/CompProg
 ~~~
 
-[![nntoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nntoz)](https://github.com/nntoz/github-readme-stats)
+[![nntoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nntoz)](https://github.com/nntoz)
