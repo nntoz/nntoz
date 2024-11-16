@@ -14,7 +14,7 @@
 
 🧑‍🎓:11th grader
 
-⚒️:WebD/GameDev/CompProg
+⚒️:Front-End Develop | WebDesign
 ~~~
 
 [![nntoz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nntoz)](https://github.com/nntoz)
